@@ -62,12 +62,10 @@ body{
 }
 
 .container{
-    display: grid;
-    place-content: center;
     border-radius: 1rem;
     overflow: hidden;
     max-width: 500px;
-    margin: auto;
+    margin: 4rem auto;
 }
 
 
